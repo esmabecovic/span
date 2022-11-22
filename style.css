@@ -1,0 +1,24 @@
+body{
+    margin: 300px;
+}
+.teget{
+    color: blue;
+}
+.plava{
+    color: aqua;
+}
+.zelena{
+    color: greenyellow;
+}
+.ljub{
+    color: violet;
+}
+.roze{
+    color: pink;
+}
+.zuta{
+    color: yellow;
+}
+p{
+    font-size: 30px;
+}
